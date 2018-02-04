@@ -1,6 +1,7 @@
 title = "Cleiton blog."
-baseURL = "https://tomanistor.com"
+baseURL = "https://cleitonosorio.com"
 tags = ["portfolio", "web design", "blog"]
+publishDir = "docs"
 languageCode = "en-US"
 config = "config.toml"
 theme = "osprey"
